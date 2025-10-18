@@ -1,0 +1,18 @@
+{
+  "name": "Feedback",
+  "version": "0.1",
+  "build_number": 2,
+  "platform": "desktop/mobile",
+  "required_os_version": "11",
+  "link": "",
+  "isMandatory": "No",
+  "lic": {
+    "pcId": [
+      "PC-A1B2C3D4E5",
+      "PC-F6G7H8I9J0",
+      "PC-K1L2M3N4O5"
+    ],
+    "license_type": "standard",
+    "expiry_date": "2026-12-31"
+  }
+}
